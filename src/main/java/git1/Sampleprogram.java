@@ -14,4 +14,18 @@ public class Sampleprogram {
 
 	}
 
+	private void div() {
+		// TODO Auto-generated method stub
+		System.out.println("multiplication");
+
+	}
+	
+	private void test() {
+		// TODO Auto-generated method stub
+		System.out.println("multiplication");
+
+	}
+	
+	
+	
 }

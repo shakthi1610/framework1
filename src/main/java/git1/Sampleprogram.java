@@ -13,5 +13,10 @@ public class Sampleprogram {
 		System.out.println("multiplication");
 
 	}
+	private void div() {
+		System.out.println("division");
+		// TODO Auto-generated method stub
+
+	}
 
 }
